@@ -1,13 +1,12 @@
 # 1 Project Instructions
-- **moving mouse close to the moving grass it will following the mouse moving**
-- **If there isn't a mouse shows up then they will move randomly by themselves**
+- **Jellyfishes will move randomly by themselves**
 
 
 ## 2 Details of my individual approach
 - I chosed **Perline noise** and **random value**
 - There are two preperties that will be animated
     - The grass
-        - The grass will move like a jellyfish, and moving towards the mouse when nearby.
+        - The grass will move like a jellyfish.
             
             (Skye: grass will change its shape and colour according to music level)
 
