@@ -32,4 +32,5 @@
 
 - Technical Explanation
 
-    In order to let the grass look like jellyfish and start moving, the original coding method for drawing grass is no longer suitable for jellyfish, so I changed the way of drawing jellyfish. By defining multiple class categories, I finally combined them into jellyfish and gave them the logic of movement. At the same time, because the dots in the background need to expand, deform, and change color independently, I turned the three types of dots into one and created classes for them.
+   - In order to let the grass look like jellyfish and start moving, the original coding method for drawing grass is no longer suitable for jellyfish, so I changed the way of drawing jellyfish. By defining multiple class categories, I finally combined them into jellyfish and gave them the logic of movement. At the same time, because the dots in the background need to expand, deform, and change color independently, I turned the three types of dots into one and created classes for them.
+    - I used easing function method that come from internet, which is the penner class part of my code. Those easing function method is from [Easing](https://easings.net/#) and [CSDN](https://blog.csdn.net/qq_40765480/article/details/127551512)
